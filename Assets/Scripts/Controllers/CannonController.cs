@@ -1,5 +1,5 @@
 ﻿using System.Linq;
-using Contracts;
+using Monsters;
 using Monsters.Contracts;
 using Pool;
 using Projectiles;

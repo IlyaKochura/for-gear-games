@@ -1,6 +1,6 @@
-﻿using System;
-using Contracts;
+﻿using Monsters;
 using Monsters.Contracts;
+using Projectiles.Contracts;
 using UnityEngine;
 
 namespace Projectiles

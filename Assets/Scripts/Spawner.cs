@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Monsters;
 using Monsters.Contracts;
 using Pool;
 using ScriptableObjects;

@@ -3,7 +3,7 @@ using Pool.Contracts;
 using ScriptableObjects;
 using UnityEngine;
 
-namespace Contracts
+namespace Projectiles.Contracts
 {
     public class BaseProjectile : MonoBehaviour, IRecycle
     {

@@ -1,7 +1,8 @@
+using Monsters.Contracts;
 using Pool.Contracts;
 using UnityEngine;
 
-namespace Monsters.Contracts
+namespace Monsters
 {
     public class Monster : MonoBehaviour, IVulnerable, IRecycle
     {

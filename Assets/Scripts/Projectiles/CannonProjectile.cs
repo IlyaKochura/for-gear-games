@@ -1,5 +1,5 @@
-﻿using Contracts;
-using Monsters.Contracts;
+﻿using Monsters.Contracts;
+using Projectiles.Contracts;
 using UnityEngine;
 
 namespace Projectiles
